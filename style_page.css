@@ -1,0 +1,12 @@
+body{
+    background-color: lightcyan;
+}
+
+h1{
+    text-align: center;
+}
+
+#logo{
+    width: 45px;
+    height: 45px;
+}
